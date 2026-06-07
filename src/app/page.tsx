@@ -364,7 +364,6 @@ export default function Home() {
               <ExternalLink href="https://www.linkedin.com/in/%C3%B6mer-faruk-kurt-030104217">
                 LinkedIn
               </ExternalLink>
-              <a href="mailto:omerfk011@gmail.com">Email</a>
               <a href="/omer-faruk-kurt-resume.pdf" download>
                 Résumé
               </a>
