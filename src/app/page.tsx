@@ -5,7 +5,7 @@ import {
   Linkedin,
   Mail,
 } from "@/components/icons";
-import { LoopVisual, UrbanPulseVisual } from "@/components/project-visuals";
+import { ProjectVisual } from "@/components/project-visuals";
 
 const loopStack = [
   "React",
@@ -223,7 +223,7 @@ export default function Home() {
                   </ExternalLink>
                 </div>
               </div>
-              <LoopVisual />
+              <ProjectVisual project="loop" />
             </div>
 
             <div className="stack-list" aria-label="LOOP technology stack">
@@ -270,7 +270,7 @@ export default function Home() {
                   </ExternalLink>
                 </div>
               </div>
-              <UrbanPulseVisual />
+              <ProjectVisual project="urbanpulse" />
             </div>
 
             <div className="stack-list" aria-label="UrbanPulse technology stack">
